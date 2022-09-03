@@ -1,0 +1,72 @@
+body {
+    background-color:rgb(84, 111, 84);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.top-nav {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    border-radius: 5px;
+    border-bottom-color: black;
+}
+.top-nav-button {
+    display: flex;
+    height: 80px;
+    margin: auto;
+    border: red;  
+}
+.button-top{
+    background-color: rgb(255, 238, 0);
+    text-decoration: solid;
+    font-weight: 400;
+    font-size: 40px;
+    border-radius: 20px 100px;
+    width: 200px; 
+    height: 100px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-color: brown;
+       
+}
+button:hover {
+    background-color: blue;
+}
+.button-click {
+    background-color: rgb(255, 238, 0);
+    text-decoration: solid;
+    font-size: 40px;
+    border-radius: 5px;
+    width: 50px; 
+    height: 60px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-color: brown;
+}
+.click-div {
+    display: flex;
+    align-items: center;
+}
+.counter-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 130px;
+    background-color: aqua;
+    border-radius: 5px;
+      
+}
+.main-top1 {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+
+}
+.main-top1:img {
+    display: block;
+    margin: 0 auto;
+}    
+.main-top-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;  
+}
+
