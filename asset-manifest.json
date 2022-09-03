@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/asimnipty/adrikapp.git/static/css/main.27f0e475.css",
-    "main.js": "/asimnipty/adrikapp.git/static/js/main.84d7caa1.js",
+    "main.css": "/asimnipty/adrikapp.git/static/css/main.4d5011be.css",
+    "main.js": "/asimnipty/adrikapp.git/static/js/main.83c940d9.js",
     "static/media/img1.jpeg": "/asimnipty/adrikapp.git/static/media/img1.66f908ef90f5cb00cc9b.jpeg",
     "index.html": "/asimnipty/adrikapp.git/index.html",
-    "main.27f0e475.css.map": "/asimnipty/adrikapp.git/static/css/main.27f0e475.css.map",
-    "main.84d7caa1.js.map": "/asimnipty/adrikapp.git/static/js/main.84d7caa1.js.map"
+    "main.4d5011be.css.map": "/asimnipty/adrikapp.git/static/css/main.4d5011be.css.map",
+    "main.83c940d9.js.map": "/asimnipty/adrikapp.git/static/js/main.83c940d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.27f0e475.css",
-    "static/js/main.84d7caa1.js"
+    "static/css/main.4d5011be.css",
+    "static/js/main.83c940d9.js"
   ]
 }
