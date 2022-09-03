@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import img1 from './images/img1.jpeg';
+import imgData from './imgData'
 
 export default function Main(){
     
@@ -10,8 +11,10 @@ export default function Main(){
     const decrement = () =>{
         setCount(count - 1)
     };
-    //const [img, setImg] = useState({URL:'./images/img3.jpeg'});
-
+    const [image, setImage] = useState(' ');
+        
+    
+    
     return(
         
         <div className='main-top1'>               
@@ -21,9 +24,9 @@ export default function Main(){
             <h2>counter</h2>
             <div className='counter-div'>
                 
-                <button className='button-click' onClick={increment}>+</button>
+                <button className='button-click' onClick={decrement}>-</button>
                 <span>{count}</span>
-                <button className='button-click' onClick={decrement}>-</button>   
+                <button className='button-click' onClick={increment}>+</button>   
             </div>
             
         </div>
