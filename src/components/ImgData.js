@@ -25,5 +25,5 @@ const imgDate = [
     }
 
 ]
-    
+    export default imgDate();
 
