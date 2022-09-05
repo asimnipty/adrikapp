@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/adrikapp/static/css/main.88209282.css",
-    "main.js": "/adrikapp/static/js/main.12ce10dc.js",
+    "main.js": "/adrikapp/static/js/main.ee800c17.js",
     "static/media/img1.jpeg": "/adrikapp/static/media/img1.66f908ef90f5cb00cc9b.jpeg",
     "index.html": "/adrikapp/index.html",
     "main.88209282.css.map": "/adrikapp/static/css/main.88209282.css.map",
-    "main.12ce10dc.js.map": "/adrikapp/static/js/main.12ce10dc.js.map"
+    "main.ee800c17.js.map": "/adrikapp/static/js/main.ee800c17.js.map"
   },
   "entrypoints": [
     "static/css/main.88209282.css",
-    "static/js/main.12ce10dc.js"
+    "static/js/main.ee800c17.js"
   ]
 }
