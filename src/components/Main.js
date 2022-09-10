@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import img1 from './images/img1.jpeg';
-import imgData from './imgData'
+
 
 export default function Main(){
     
@@ -11,9 +11,7 @@ export default function Main(){
     const decrement = () =>{
         setCount(count - 1)
     };
-    const [image, setImage] = useState(' ');
-        
-    
+   
     
     return(
         
