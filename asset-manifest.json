@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/adrikapp/static/css/main.96de7209.css",
-    "main.js": "/adrikapp/static/js/main.74b50364.js",
+    "main.css": "/adrikapp/static/css/main.2631faae.css",
+    "main.js": "/adrikapp/static/js/main.0f248736.js",
     "static/media/troll-face.png": "/adrikapp/static/media/troll-face.a9277a79c99b215aacdf.png",
+    "static/media/img3.jpeg": "/adrikapp/static/media/img3.aa19f5e4c8a0fd07ff2e.jpeg",
+    "static/media/img4.jpeg": "/adrikapp/static/media/img4.f3f2bc8954b65905e6b7.jpeg",
+    "static/media/img6.jpeg": "/adrikapp/static/media/img6.9ad483c46bd8f653f4c3.jpeg",
+    "static/media/img5.jpeg": "/adrikapp/static/media/img5.da706c70ebf438a0ae3d.jpeg",
+    "static/media/img2.jpeg": "/adrikapp/static/media/img2.ddb93bf611bf5a74e5aa.jpeg",
     "static/media/img1.jpeg": "/adrikapp/static/media/img1.66f908ef90f5cb00cc9b.jpeg",
     "index.html": "/adrikapp/index.html",
-    "main.96de7209.css.map": "/adrikapp/static/css/main.96de7209.css.map",
-    "main.74b50364.js.map": "/adrikapp/static/js/main.74b50364.js.map"
+    "main.2631faae.css.map": "/adrikapp/static/css/main.2631faae.css.map",
+    "main.0f248736.js.map": "/adrikapp/static/js/main.0f248736.js.map"
   },
   "entrypoints": [
-    "static/css/main.96de7209.css",
-    "static/js/main.74b50364.js"
+    "static/css/main.2631faae.css",
+    "static/js/main.0f248736.js"
   ]
 }
