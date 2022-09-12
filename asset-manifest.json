@@ -1,20 +1,28 @@
 {
   "files": {
     "main.css": "/adrikapp/static/css/main.2631faae.css",
-    "main.js": "/adrikapp/static/js/main.0f248736.js",
+    "main.js": "/adrikapp/static/js/main.deb25864.js",
+    "static/media/img14.jpeg": "/adrikapp/static/media/img14.9bc41e35d6c623b990db.jpeg",
+    "static/media/img10.jpeg": "/adrikapp/static/media/img10.def7380a1c48419053bf.jpeg",
     "static/media/troll-face.png": "/adrikapp/static/media/troll-face.a9277a79c99b215aacdf.png",
+    "static/media/img8.jpeg": "/adrikapp/static/media/img8.b8b26651ce807903f6a4.jpeg",
     "static/media/img3.jpeg": "/adrikapp/static/media/img3.aa19f5e4c8a0fd07ff2e.jpeg",
     "static/media/img4.jpeg": "/adrikapp/static/media/img4.f3f2bc8954b65905e6b7.jpeg",
     "static/media/img6.jpeg": "/adrikapp/static/media/img6.9ad483c46bd8f653f4c3.jpeg",
+    "static/media/img11.jpeg": "/adrikapp/static/media/img11.8f6721de985f8b9d4dcb.jpeg",
+    "static/media/img13.jpeg": "/adrikapp/static/media/img13.a79a7f25edda0bcc6e10.jpeg",
     "static/media/img5.jpeg": "/adrikapp/static/media/img5.da706c70ebf438a0ae3d.jpeg",
+    "static/media/img12.jpeg": "/adrikapp/static/media/img12.543af720f91b6c4e7ea8.jpeg",
+    "static/media/img9.jpeg": "/adrikapp/static/media/img9.afbd09f9496855fc0723.jpeg",
+    "static/media/img7.jpeg": "/adrikapp/static/media/img7.c1b91a52f1a5c027078c.jpeg",
     "static/media/img2.jpeg": "/adrikapp/static/media/img2.ddb93bf611bf5a74e5aa.jpeg",
     "static/media/img1.jpeg": "/adrikapp/static/media/img1.66f908ef90f5cb00cc9b.jpeg",
     "index.html": "/adrikapp/index.html",
     "main.2631faae.css.map": "/adrikapp/static/css/main.2631faae.css.map",
-    "main.0f248736.js.map": "/adrikapp/static/js/main.0f248736.js.map"
+    "main.deb25864.js.map": "/adrikapp/static/js/main.deb25864.js.map"
   },
   "entrypoints": [
     "static/css/main.2631faae.css",
-    "static/js/main.0f248736.js"
+    "static/js/main.deb25864.js"
   ]
 }
