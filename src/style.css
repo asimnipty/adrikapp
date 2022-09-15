@@ -4,10 +4,22 @@ body {
 }
 .top-nav {
     display: flex;
-    height: 200px;
+    flex-direction: column;
+    height: 100px;
     align-items: center;
     border-radius: 5px;
     border-bottom-color: black;
+    margin-bottom: 2px;
+    justify-content: center;
+}
+.top-time {
+    border-radius: 25px;
+    justify-content: center;
+    height: 30px;
+    width: 70px;
+    background-color: blueviolet;
+    align-items: center;
+    font-size: 10px;
 }
 .top-nav-button {
     display: flex;
@@ -26,12 +38,23 @@ body {
     box-shadow: -10px -10px darkred;
     width: 150px; 
     height: 70px;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Impact", "Comic Sans MS", "Comic Sans", cursive;
     border-color: brown;
        
 }
 button:hover {
-    background-color: blue;
+    background-color: lightgreen;
+}
+.click-me-button {
+    background-color: rgb(255, 238, 0);
+    margin-top: 5px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 5px;
+    width: 80px; 
+    height: 30px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-color: brown;
 }
 .button-click {
     background-color: rgb(255, 238, 0);
@@ -57,12 +80,64 @@ button:hover {
     box-shadow: -10px -10px darkred;
       
 }
-.main-top1 {
+.main-body{
     display: flex;
     margin: auto;
+    align-content: center;
+    justify-content: center;
+    
+}
+.main-float-child {
+    display: flex;
+    float: left;
+    width: 30%;
+    border-radius: 8px;
+    padding: 5px;
+    background-color:burlywood;
     align-items: center;
     flex-direction: column;
+    padding: 20px;
+    border: 2px solid red;
 
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    height: 25px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: white;
+    padding: 20px;
+    width: 100%;
+}
+
+.header--image {
+    height: 150%;
+    margin-left: auto;
+    margin-right: 20px;
+    
+}
+
+.header--title {
+    font-size: 20px;
+    margin-right: auto;
+}
+.form {
+    display: grid;
+    grid-template: 30px 30px / 1fr 1fr;
+    gap: 17px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.form--button {
+    grid-column: 1 / -1;
+    font-family: "Karla", sans-serif;
+    border-radius: 5px;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    color: white;
+    border: none;
+    cursor: pointer;
 }
 .main-top1:img {
     display: block;
@@ -73,4 +148,6 @@ button:hover {
     width: 200px;
     border-radius: 50%;  
 }
-
+.meme--image {
+    display: 100%;
+}

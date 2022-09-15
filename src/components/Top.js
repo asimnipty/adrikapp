@@ -1,9 +1,10 @@
 import React from 'react';
 
-
-
 function Top() {
+  
+  
   return (
+    
     <div className="top-nav">
         
         <div className='top-nav-button'>
@@ -11,6 +12,9 @@ function Top() {
             <button className='button-top'> Games</button>
             <button className='button-top'> Audio</button>
             <button className='button-top'> Video</button>
+        </div>
+        <div className="top-time">
+          <p> Top Timer</p>
         </div>
       
     </div>
